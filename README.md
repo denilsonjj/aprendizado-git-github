@@ -1,1 +1,0 @@
-Meu projeto do curso JavasScript full stack
