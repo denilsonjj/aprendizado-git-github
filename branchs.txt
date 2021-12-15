@@ -1,0 +1,5 @@
+aprendemos a criar uma branch 
+git checkout -b 'nome da branch'
+
+a navegar entre as branchs
+git checkout 'nome da branch'
