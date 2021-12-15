@@ -1,0 +1,3 @@
+utilizando git push origin nome da branch para enviar as alteraçôes para o seu repositorio online
+
+já o git pull é usado para baixar informações de um repositorio remoto
