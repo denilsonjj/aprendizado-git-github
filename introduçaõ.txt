@@ -1,0 +1,2 @@
+na introdução do módulo aprendemos a baicar e configurar o terminal e o github
+colocando email e password
