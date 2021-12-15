@@ -1,0 +1,1 @@
+aprendi a instalar o git bash e configurar usando email e password
